@@ -9,4 +9,8 @@
 	is when dealing with something that delivers, or modifies other products to be careful not to distribute or handle these other products in 
 	a way that can come back to me. So make sure to check rules of distribution for items and software that my software might interact with 
 	and follow those rules. 
-	
+
+#section 3 Screen Shot
+![Discord Profile Pic](/labs/lab-01/imgs/man_tree_ss.png)
+
+#section 4 Screen Shots
