@@ -1,4 +1,5 @@
-##section 2 answers
+# Section 2 Answers
+
 3. Two more suggestions for the How to answer questions in a helpful way
 	1. Some times writing the wrong answer confidently can make someone with the correct answer angry and make them fix it
 	2. Guiding people/ working with them to find the solution usually makes everyone working on the answer a better programer
@@ -10,7 +11,7 @@
 	a way that can come back to me. So make sure to check rules of distribution for items and software that my software might interact with 
 	and follow those rules. 
 
-#section 3 Screen Shot
-![Discord Profile Pic](/labs/lab-01/imgs/man_tree_ss.png)
+# Section 3 Screen Shot
+![ubuntu Screen Shot](/labs/lab-01/imgs/man_tree_ss.png)
 
-#section 4 Screen Shots
+# Section 4 Screen Shots
