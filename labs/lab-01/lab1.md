@@ -15,3 +15,15 @@
 ![ubuntu Screen Shot](/labs/lab-01/imgs/man_tree_ss.png)
 
 # Section 4 Screen Shots
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob1_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob2_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob3_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob4_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob5_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob6_regexsol.png)
+![ubuntu Screen Shot](/labs/lab-01/imgs/prob7_regexsol.png)
+
+# Section 5 Screen Shot
+![ubuntu Screen Shot](/labs/lab-01/imgs/blocky_game_sol.png)
+
+# Section 6 Reflection
