@@ -27,3 +27,8 @@
 ![ubuntu Screen Shot](/labs/lab-01/imgs/blocky_game_sol.png)
 
 # Section 6 Reflection
+I think an interesting open source project to do would be a site that would allow students at rpi to input their information
+and find class that they meet the prerequisits for. I know for me it can be annoying to have to found a good schedule to take 
+for a semester only to find out when I am applying for classes that sis wont let me because I am missing some prerequisit. 
+This site would allow students to input their sis information and load in their transcripts and give class options that they 
+could take in the next semester. 
